@@ -42,6 +42,3 @@ $(document).ready(function() {
     });
 });
 ```
-
-#### 4. Check out our other Summernote Plugins via our main Github page.
-- [Diemen Design](https://github.com/DiemenDesign/)
